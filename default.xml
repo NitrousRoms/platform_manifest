@@ -456,7 +456,7 @@
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="nosp" revision="mm6.0" />
   <project path="packages/services/OmniJaws" name="android_packages_services_OmniJaws" remote="nosp" revision="mm6.0" />
   <project path="system/core" name="android_system_core" remote="nosp" revision="mm6.0" />
-  <project path="system/extras" name="android_system_extras" groups="pdk" remote="nosp" revision="mm.60" />
+  <project path="system/extras" name="android_system_extras" groups="pdk" remote="nosp" revision="mm6.0" />
   <project path="system/vold" name="android_system_vold" groups="pdk" remote="nosp" revision="mm6.0" />
   <project path="vendor/nosp" name="android_vendor_nosp" remote="nosp" revision="mm6.0" />
 

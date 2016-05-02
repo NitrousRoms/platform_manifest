@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-
+         
   <remote  name="github"
-           fetch="https://github.com" />
+           fetch="https://github.com/" />
+
+  <remote  name="nosp"
+           fetch="https://github.com/NitrousRoms/" />
+
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
            review="android-review.googlesource.com" />
-  <remote  name="nosp"
-           fetch="https://github.com/NirtousRoms/" /> 
+
   <default revision="refs/tags/android-6.0.1_r24"
            remote="aosp"
-           sync-c="true"
-           sync-f="true"
            sync-j="4" />
 
   <project path="build" name="android_build" remote="nosp" revision="mm6.0" >

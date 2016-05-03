@@ -465,7 +465,7 @@
   <project path="vendor/nosp" name="android_vendor_nosp" remote="nosp" revision="mm6.0" />
 
   <!-- NOSP devices-->
-  <project path="device/huawei/angler" name="android_huawei_angler" remote="nosp" revision="mm6.0" />
+  <project path="device/huawei/angler" name="android_device_huawei_angler" remote="nosp" revision="mm6.0" />
 
   <!-- NOSP kernels-->
   <project path="kernel/huawei/angler" name="android_kernel_huawei_angler" groups="device,angler,broadcom_pdk" remote="nosp" revision="mm6.0" />

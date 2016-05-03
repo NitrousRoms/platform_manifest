@@ -5,8 +5,11 @@
            fetch="https://github.com/" />
 
   <remote  name="nosp"
-           fetch="https://github.com/NitrousRoms/" />
+           fetch="https://github.com/NitrousRoms"
            revision="mm6.0" />
+
+  <remote name="bb"
+           fetch="https://bitbucket.org/" />
 
   <remote  name="aosp"
            fetch="https://android.googlesource.com"

@@ -447,6 +447,7 @@
   <!-- NOSP additions-->
   <project path="platform_manifest" name="platform_manifest" remote="nosp" revision="mm6.0" />
   <project path="external/busybox" name="android_external_busybox" remote="nosp" revision="mm6.0" />
+  <project path="external/roboto-fonts" name="android_external_roboto-fonts" remote="nosp" revision="mm6.0" />
   <project path="external/sepolicy" name="android_external_sepolicy" groups="pdk" remote="nosp" revision="mm6.0" />
   <project path="frameworks/base" name="android_frameworks_base" remote="nosp" revision="mm6.0" />
   <project path="frameworks/native" name="android_frameworks_native" remote="nosp" revision="mm6.0" />

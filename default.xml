@@ -445,6 +445,7 @@
   <!-- NOSP additions-->
   <project path="platform_manifest" name="platform_manifest" remote="nosp" revision="mm6.0" />
   <project path="external/busybox" name="android_external_busybox" remote="nosp" revision="mm6.0" />
+  <project path="external/chromium-webview" name="android_external_chromium-webview" groups="pdk" remote="nosp" revision="mm6.0" />
   <project path="external/guava" name="android_external_guava" groups="pdk-cw-fs,pdk-fs" remote="nosp" revision="mm6.0" />
   <project path="external/roboto-fonts" name="android_external_roboto-fonts" remote="nosp" revision="mm6.0" />
   <project path="external/toybox" name="android_external_toybox" remote="nosp" revision="mm6.0" />
